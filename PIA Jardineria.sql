@@ -1,4 +1,4 @@
-# Evidencia_1
+# PIA GESTION BD
 -- 1. Listado con el nombre de cada cliente y el nombre y apellido de su representante de ventas
 SELECT cliente.nombre_cliente, empleado.nombre AS nombre_representante, empleado.apellido1 AS apellido_representante  
 FROM cliente
